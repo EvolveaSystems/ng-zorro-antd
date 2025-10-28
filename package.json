@@ -20,7 +20,6 @@
     "ng": "ng",
     "gulp": "gulp",
     "lint": "tslint --project components/tsconfig.lib.json -c tslint.json",
-    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "@angular/cdk": "^11.0.3",
